@@ -1,0 +1,5 @@
+[Info  - 17:06:32] Angular language server process ID: 62553
+[Info  - 17:06:33] Using typescript/lib/tsserverlibrary v4.8.2 from /home/rugery/.vscode/extensions/angular.ng-template-15.2.0/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 17:06:33] Using @angular/language-service v15.2.0 from /home/rugery/.vscode/extensions/angular.ng-template-15.2.0/node_modules/@angular/language-service/index.js
+[Info  - 17:06:34] Logging is turned off. To enable, run command 'Open Angular server log'.
+[Info  - 17:06:42] Enabling Ivy language service for /home/rugery/Documentos/Programs/MapsAngular/maps/tsconfig.json.

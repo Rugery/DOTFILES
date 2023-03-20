@@ -1,0 +1,189 @@
+2023-03-15 17:05:47.608 [info] Log level: Info
+2023-03-15 17:05:47.608 [info] Validating found git in: "git"
+2023-03-15 17:05:47.608 [info] Using git "2.40.0" from "git"
+2023-03-15 17:05:47.608 [info] > git rev-parse --show-toplevel [10ms]
+2023-03-15 17:05:47.608 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2023-03-15 17:05:47.608 [info] Open repository: /home/rugery/Documentos/Proyects/Portafolio
+2023-03-15 17:05:47.608 [info] > git config --get commit.template [28ms]
+2023-03-15 17:05:47.608 [info] > git rev-parse --show-toplevel [42ms]
+2023-03-15 17:05:47.608 [info] > git rev-parse --show-toplevel [58ms]
+2023-03-15 17:05:47.608 [info] No remotes found in the git config file.
+2023-03-15 17:05:47.610 [info] > git check-ignore -v -z --stdin [400ms]
+2023-03-15 17:05:47.684 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [433ms]
+2023-03-15 17:05:47.789 [info] > git status -z -uall [86ms]
+2023-03-15 17:05:47.847 [info] > git config --get commit.template [6ms]
+2023-03-15 17:05:47.858 [info] No remotes found in the git config file.
+2023-03-15 17:05:47.875 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [18ms]
+2023-03-15 17:05:47.925 [info] > git status -z -uall [25ms]
+2023-03-15 17:06:02.207 [info] No remotes found in the git config file.
+2023-03-15 17:06:02.208 [info] > git config --get commit.template [19ms]
+2023-03-15 17:06:02.220 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2023-03-15 17:06:02.259 [info] > git status -z -uall [12ms]
+2023-03-15 17:06:07.454 [info] > git check-ignore -v -z --stdin [5ms]
+2023-03-15 17:06:10.557 [info] No remotes found in the git config file.
+2023-03-15 17:06:10.558 [info] > git config --get commit.template [12ms]
+2023-03-15 17:06:10.559 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-03-15 17:06:10.576 [info] > git status -z -uall [5ms]
+2023-03-15 17:06:16.421 [info] No remotes found in the git config file.
+2023-03-15 17:06:16.422 [info] > git config --get commit.template [17ms]
+2023-03-15 17:06:16.431 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2023-03-15 17:06:16.454 [info] > git status -z -uall [5ms]
+2023-03-15 17:06:21.505 [info] > git config --get commit.template [8ms]
+2023-03-15 17:06:21.537 [info] No remotes found in the git config file.
+2023-03-15 17:06:21.542 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2023-03-15 17:06:21.582 [info] > git status -z -uall [13ms]
+2023-03-15 17:06:50.308 [info] > git check-ignore -v -z --stdin [4ms]
+2023-03-15 17:06:54.423 [info] > git show --textconv :src/index.html [25ms]
+2023-03-15 17:06:54.427 [info] > git ls-files --stage -- /home/rugery/Documentos/Proyects/Portafolio/src/index.html [12ms]
+2023-03-15 17:06:54.442 [info] > git cat-file -s 2bd15b39142bb63a7273376f1423ac9db3eacdc4 [3ms]
+2023-03-15 17:07:01.610 [info] No remotes found in the git config file.
+2023-03-15 17:07:01.613 [info] > git config --get commit.template [25ms]
+2023-03-15 17:07:01.615 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-03-15 17:07:01.646 [info] > git status -z -uall [12ms]
+2023-03-15 17:07:10.043 [info] No remotes found in the git config file.
+2023-03-15 17:07:10.045 [info] > git config --get commit.template [25ms]
+2023-03-15 17:07:10.047 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-03-15 17:07:10.076 [info] > git status -z -uall [9ms]
+2023-03-15 17:07:11.146 [info] > git ls-files --stage -- /home/rugery/Documentos/Proyects/Portafolio/src/index.html [8ms]
+2023-03-15 17:07:11.201 [info] > git cat-file -s 2bd15b39142bb63a7273376f1423ac9db3eacdc4 [21ms]
+2023-03-15 17:07:11.244 [info] > git show --textconv :src/index.html [2ms]
+2023-03-15 17:07:42.912 [info] > git config --get commit.template [7ms]
+2023-03-15 17:07:42.940 [info] No remotes found in the git config file.
+2023-03-15 17:07:42.945 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-03-15 17:07:42.980 [info] > git status -z -uall [9ms]
+2023-03-15 17:07:44.084 [info] > git ls-files --stage -- /home/rugery/Documentos/Proyects/Portafolio/src/index.html [8ms]
+2023-03-15 17:07:44.124 [info] > git cat-file -s 2bd15b39142bb63a7273376f1423ac9db3eacdc4 [4ms]
+2023-03-15 17:07:44.181 [info] > git show --textconv :src/index.html [4ms]
+2023-03-15 17:08:09.227 [info] No remotes found in the git config file.
+2023-03-15 17:08:09.230 [info] > git config --get commit.template [26ms]
+2023-03-15 17:08:09.231 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-03-15 17:08:09.278 [info] > git status -z -uall [13ms]
+2023-03-15 17:08:17.582 [info] No remotes found in the git config file.
+2023-03-15 17:08:17.584 [info] > git config --get commit.template [33ms]
+2023-03-15 17:08:17.586 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-03-15 17:08:17.625 [info] > git status -z -uall [12ms]
+2023-03-15 17:09:19.370 [info] No remotes found in the git config file.
+2023-03-15 17:09:19.371 [info] > git config --get commit.template [9ms]
+2023-03-15 17:09:19.372 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-03-15 17:09:19.384 [info] > git status -z -uall [4ms]
+2023-03-15 17:09:31.802 [info] > git config --get commit.template [8ms]
+2023-03-15 17:09:31.836 [info] No remotes found in the git config file.
+2023-03-15 17:09:31.840 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-03-15 17:09:31.858 [info] > git status -z -uall [4ms]
+2023-03-15 17:09:51.563 [info] No remotes found in the git config file.
+2023-03-15 17:09:51.564 [info] > git config --get commit.template [15ms]
+2023-03-15 17:09:51.567 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-03-15 17:09:51.584 [info] > git status -z -uall [6ms]
+2023-03-15 17:10:04.034 [info] No remotes found in the git config file.
+2023-03-15 17:10:04.036 [info] > git config --get commit.template [29ms]
+2023-03-15 17:10:04.037 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-03-15 17:10:04.060 [info] > git status -z -uall [6ms]
+2023-03-15 17:10:04.108 [info] > git ls-files --stage -- /home/rugery/Documentos/Proyects/Portafolio/src/index.html [2ms]
+2023-03-15 17:10:04.122 [info] > git cat-file -s 2bd15b39142bb63a7273376f1423ac9db3eacdc4 [2ms]
+2023-03-15 17:10:04.136 [info] > git show --textconv :src/index.html [2ms]
+2023-03-15 17:10:09.193 [info] No remotes found in the git config file.
+2023-03-15 17:10:09.194 [info] > git config --get commit.template [23ms]
+2023-03-15 17:10:09.195 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-03-15 17:10:09.222 [info] > git status -z -uall [7ms]
+2023-03-15 17:10:09.278 [info] > git ls-files --stage -- /home/rugery/Documentos/Proyects/Portafolio/src/index.html [3ms]
+2023-03-15 17:10:09.299 [info] > git cat-file -s 2bd15b39142bb63a7273376f1423ac9db3eacdc4 [3ms]
+2023-03-15 17:10:09.324 [info] > git show --textconv :src/index.html [5ms]
+2023-03-15 17:10:14.150 [info] > git show --textconv :.vscode/tasks.json [16ms]
+2023-03-15 17:10:14.151 [info] > git ls-files --stage -- /home/rugery/Documentos/Proyects/Portafolio/.vscode/tasks.json [3ms]
+2023-03-15 17:10:14.165 [info] > git cat-file -s a298b5bd8796ac377fe9ed64caa249e24c7ec3b6 [2ms]
+2023-03-15 17:10:14.684 [info] > git check-ignore -v -z --stdin [19ms]
+2023-03-15 17:11:36.485 [info] No remotes found in the git config file.
+2023-03-15 17:11:36.506 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-03-15 17:11:36.506 [info] > git config --get commit.template [22ms]
+2023-03-15 17:11:36.526 [info] > git status -z -uall [5ms]
+2023-03-15 17:11:54.979 [info] No remotes found in the git config file.
+2023-03-15 17:11:54.982 [info] > git config --get commit.template [33ms]
+2023-03-15 17:11:54.984 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2023-03-15 17:11:55.013 [info] > git status -z -uall [7ms]
+2023-03-15 17:12:24.755 [info] No remotes found in the git config file.
+2023-03-15 17:12:24.768 [info] > git config --get commit.template [15ms]
+2023-03-15 17:12:24.770 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-03-15 17:12:24.792 [info] > git status -z -uall [9ms]
+2023-03-15 17:12:24.869 [info] > git ls-files --stage -- /home/rugery/Documentos/Proyects/Portafolio/src/index.html [16ms]
+2023-03-15 17:12:24.885 [info] > git ls-files --stage -- /home/rugery/Documentos/Proyects/Portafolio/.vscode/tasks.json [17ms]
+2023-03-15 17:12:24.899 [info] > git cat-file -s 2bd15b39142bb63a7273376f1423ac9db3eacdc4 [16ms]
+2023-03-15 17:12:24.904 [info] > git cat-file -s a298b5bd8796ac377fe9ed64caa249e24c7ec3b6 [7ms]
+2023-03-15 17:12:24.936 [info] > git show --textconv :src/index.html [14ms]
+2023-03-15 17:12:24.936 [info] > git show --textconv :.vscode/tasks.json [2ms]
+2023-03-15 17:13:22.366 [info] No remotes found in the git config file.
+2023-03-15 17:13:22.367 [info] > git config --get commit.template [12ms]
+2023-03-15 17:13:22.367 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-03-15 17:13:22.390 [info] > git status -z -uall [12ms]
+2023-03-15 17:13:42.005 [info] No remotes found in the git config file.
+2023-03-15 17:13:42.006 [info] > git config --get commit.template [10ms]
+2023-03-15 17:13:42.006 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-03-15 17:13:42.022 [info] > git status -z -uall [4ms]
+2023-03-15 17:13:53.167 [info] No remotes found in the git config file.
+2023-03-15 17:13:53.168 [info] > git config --get commit.template [28ms]
+2023-03-15 17:13:53.170 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-03-15 17:13:53.199 [info] > git status -z -uall [7ms]
+2023-03-15 17:14:07.184 [info] No remotes found in the git config file.
+2023-03-15 17:14:07.185 [info] > git config --get commit.template [16ms]
+2023-03-15 17:14:07.186 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-03-15 17:14:07.204 [info] > git status -z -uall [5ms]
+2023-03-15 17:14:13.084 [info] No remotes found in the git config file.
+2023-03-15 17:14:13.085 [info] > git config --get commit.template [12ms]
+2023-03-15 17:14:13.085 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-03-15 17:14:13.098 [info] > git status -z -uall [4ms]
+2023-03-15 17:15:10.360 [info] No remotes found in the git config file.
+2023-03-15 17:15:10.360 [info] > git config --get commit.template [10ms]
+2023-03-15 17:15:10.361 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-03-15 17:15:10.373 [info] > git status -z -uall [2ms]
+2023-03-15 17:15:10.430 [info] > git ls-files --stage -- /home/rugery/Documentos/Proyects/Portafolio/src/index.html [2ms]
+2023-03-15 17:15:10.467 [info] > git ls-files --stage -- /home/rugery/Documentos/Proyects/Portafolio/.vscode/tasks.json [6ms]
+2023-03-15 17:15:10.479 [info] > git cat-file -s 2bd15b39142bb63a7273376f1423ac9db3eacdc4 [39ms]
+2023-03-15 17:15:10.489 [info] > git cat-file -s a298b5bd8796ac377fe9ed64caa249e24c7ec3b6 [11ms]
+2023-03-15 17:15:10.516 [info] > git show --textconv :src/index.html [14ms]
+2023-03-15 17:15:10.516 [info] > git show --textconv :.vscode/tasks.json [1ms]
+2023-03-15 17:15:25.626 [info] No remotes found in the git config file.
+2023-03-15 17:15:25.627 [info] > git config --get commit.template [13ms]
+2023-03-15 17:15:25.627 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-03-15 17:15:25.639 [info] > git status -z -uall [2ms]
+2023-03-15 17:15:30.702 [info] No remotes found in the git config file.
+2023-03-15 17:15:30.703 [info] > git config --get commit.template [32ms]
+2023-03-15 17:15:30.704 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-03-15 17:15:30.719 [info] > git status -z -uall [2ms]
+2023-03-15 17:16:44.797 [info] > git show --textconv :package.json [18ms]
+2023-03-15 17:16:44.798 [info] > git ls-files --stage -- /home/rugery/Documentos/Proyects/Portafolio/package.json [4ms]
+2023-03-15 17:16:44.816 [info] > git cat-file -s e0310f1633ef8e1ba2baef71f395d3b0525e7f6d [5ms]
+2023-03-15 17:17:23.927 [info] No remotes found in the git config file.
+2023-03-15 17:17:23.929 [info] > git config --get commit.template [25ms]
+2023-03-15 17:17:23.930 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-03-15 17:17:23.958 [info] > git status -z -uall [5ms]
+2023-03-15 17:17:37.250 [info] No remotes found in the git config file.
+2023-03-15 17:17:37.250 [info] > git config --get commit.template [12ms]
+2023-03-15 17:17:37.251 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-03-15 17:17:37.263 [info] > git status -z -uall [2ms]
+2023-03-15 17:18:51.122 [info] > git config --get commit.template [22ms]
+2023-03-15 17:18:51.137 [info] No remotes found in the git config file.
+2023-03-15 17:18:51.139 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-03-15 17:18:51.157 [info] > git status -z -uall [4ms]
+2023-03-15 17:19:50.680 [info] No remotes found in the git config file.
+2023-03-15 17:19:50.680 [info] > git config --get commit.template [13ms]
+2023-03-15 17:19:50.681 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-03-15 17:19:50.696 [info] > git status -z -uall [2ms]
+2023-03-15 17:20:03.715 [info] No remotes found in the git config file.
+2023-03-15 17:20:03.731 [info] > git config --get commit.template [33ms]
+2023-03-15 17:20:03.731 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [16ms]
+2023-03-15 17:20:03.744 [info] > git status -z -uall [3ms]
+2023-03-15 17:21:05.227 [info] No remotes found in the git config file.
+2023-03-15 17:21:05.228 [info] > git config --get commit.template [18ms]
+2023-03-15 17:21:05.231 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-03-15 17:21:05.244 [info] > git status -z -uall [2ms]
+2023-03-15 17:21:10.598 [info] No remotes found in the git config file.
+2023-03-15 17:21:10.600 [info] > git config --get commit.template [32ms]
+2023-03-15 17:21:10.602 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-03-15 17:21:10.659 [info] > git status -z -uall [38ms]
+2023-03-15 17:22:11.199 [info] No remotes found in the git config file.
+2023-03-15 17:22:11.213 [info] > git config --get commit.template [19ms]
+2023-03-15 17:22:11.213 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-03-15 17:22:11.226 [info] > git status -z -uall [2ms]
+2023-03-15 17:25:36.861 [info] No remotes found in the git config file.
+2023-03-15 17:25:36.863 [info] > git config --get commit.template [33ms]
+2023-03-15 17:25:36.864 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-03-15 17:25:36.890 [info] > git status -z -uall [4ms]

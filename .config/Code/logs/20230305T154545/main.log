@@ -1,0 +1,20 @@
+2023-03-05 15:45:46.733 [info] update#setState idle
+2023-03-05 15:45:51.589 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-03-05 15:45:51.602 [info] [UtilityProcess id: 1, type: extensionHost, pid: 3700]: successfully created
+2023-03-05 15:46:16.745 [info] update#setState checking for updates
+2023-03-05 15:46:16.760 [info] update#setState available for download
+2023-03-05 15:48:01.526 [info] [UtilityProcess id: 1, type: extensionHost, pid: 3700]: received exit event with code 0
+2023-03-05 15:48:01.526 [info] Extension host with pid 3700 exited with code: 0, signal: unknown.
+2023-03-05 15:48:02.397 [info] [UtilityProcess id: 2, type: extensionHost, pid: <none>]: creating new...
+2023-03-05 15:48:02.408 [info] [UtilityProcess id: 2, type: extensionHost, pid: 5252]: successfully created
+2023-03-05 15:51:08.316 [info] [UtilityProcess id: 3, type: extensionHost, pid: <none>]: creating new...
+2023-03-05 15:51:08.331 [info] [UtilityProcess id: 3, type: extensionHost, pid: 7375]: successfully created
+2023-03-05 15:51:10.820 [info] [UtilityProcess id: 3, type: extensionHost, pid: 7375]: received exit event with code 0
+2023-03-05 15:51:10.820 [info] Extension host with pid 7375 exited with code: 0, signal: unknown.
+2023-03-05 16:30:27.778 [info] [UtilityProcess id: 4, type: extensionHost, pid: <none>]: creating new...
+2023-03-05 16:30:27.789 [info] [UtilityProcess id: 4, type: extensionHost, pid: 35088]: successfully created
+2023-03-05 16:31:52.349 [info] [UtilityProcess id: 4, type: extensionHost, pid: 35088]: received exit event with code 0
+2023-03-05 16:31:52.349 [info] Extension host with pid 35088 exited with code: 0, signal: unknown.
+2023-03-05 16:32:00.388 [info] [UtilityProcess id: 2, type: extensionHost, pid: 5252]: waiting to exit...
+2023-03-05 16:32:00.484 [info] [UtilityProcess id: 2, type: extensionHost, pid: 5252]: received exit event with code 0
+2023-03-05 16:32:00.484 [info] Extension host with pid 5252 exited with code: 0, signal: unknown.

@@ -1,0 +1,4 @@
+2023-03-15 17:05:44.058 [info] Electron sandbox mode is enabled!
+2023-03-15 17:05:47.172 [error] [Extension Host] (node:17446) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-03-15 17:05:48.143 [info] [perf] Render performance baseline is 87ms

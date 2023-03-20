@@ -1,0 +1,331 @@
+[2023-03-05 21:32:07.430] [    151ms] [/home/rugery/Documentos/Programs] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+[2023-03-05 21:32:55.117] [     81ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git rev-parse --show-toplevel
+[2023-03-05 21:32:55.117] [    108ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src] git rev-parse --show-toplevel
+[2023-03-05 21:32:55.249] [     96ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git remote -v
+[2023-03-05 21:32:55.252] [    101ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git rev-parse --git-dir --git-common-dir
+[2023-03-05 21:32:55.253] [     37ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/index.html
+[2023-03-05 21:32:55.270] [     14ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/index.html
+[2023-03-05 21:32:55.309] [     37ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git config --get-regex ^user\.
+[2023-03-05 21:32:55.354] [     44ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git check-mailmap rugery <rugeryde@gmail.com>
+[2023-03-05 21:32:55.675] [     15ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git remote -v
+[2023-03-05 21:32:55.903] [     33ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log -M -n1 --format=%H 0fe925bfdf18a46b22214ff9574d9a29e064be6f^ -- src/index.html
+[2023-03-05 21:32:55.903] [     35ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cn%x3e%x20%cN%n%x3cm%x3e%x20%cE%n%x3cc%x3e%x20%ct%n%x3cp%x3e%x20%P%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e%n%x3cf%x3e -M -m --name-status --full-history -n3 0fe925bfdf18a46b22214ff9574d9a29e064be6f --
+[2023-03-05 21:32:55.904] [     14ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git rev-parse --verify --end-of-options 0fe925bfdf18a46b22214ff9574d9a29e064be6f^:./src/index.html
+[2023-03-05 21:32:59.522] [     13ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/index.html
+[2023-03-05 21:33:00.338] [     22ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 9,9:src/index.html 0fe925bfdf18a46b22214ff9574d9a29e064be6f
+[2023-03-05 21:33:43.270] [     40ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git for-each-ref --format=%3ch%3e%(HEAD)%3cn%3e%(refname)%3cu%3e%(upstream:short)%3ct%3e%(upstream:track)%3cr%3e%(objectname)%3cd%3e%(committerdate:iso8601) refs/heads refs/remotes
+[2023-03-05 21:33:43.309] [     33ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git tag -l --format=%3cn%3e%(refname)%3c*r%3e%(*objectname)%3cr%3e%(objectname)%3cd%3e%(creatordate:iso8601)%3cad%3e%(authordate:iso8601)%3cs%3e%(subject)
+[2023-03-05 21:36:17.232] [     13ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/index.html
+[2023-03-05 21:36:18.039] [     14ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental --contents - -- src/index.html
+[2023-03-05 21:36:18.051] [     11ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 9,9:src/index.html 0fe925bfdf18a46b22214ff9574d9a29e064be6f
+[2023-03-05 21:36:19.847] [     42ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/index.html
+[2023-03-05 21:36:21.306] [     49ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/index.html
+[2023-03-05 21:37:49.938] [     16ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/app.component.ts
+[2023-03-05 21:37:50.878] [     61ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/app/app.component.ts
+[2023-03-05 21:37:51.435] [     51ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log -M -n1 --format=%H 0fe925bfdf18a46b22214ff9574d9a29e064be6f^ -- src/app/app.component.ts
+[2023-03-05 21:37:51.435] [     53ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cn%x3e%x20%cN%n%x3cm%x3e%x20%cE%n%x3cc%x3e%x20%ct%n%x3cp%x3e%x20%P%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e%n%x3cf%x3e -M -m --name-status --full-history -n3 0fe925bfdf18a46b22214ff9574d9a29e064be6f --
+[2023-03-05 21:37:51.441] [     24ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git rev-parse --verify --end-of-options 0fe925bfdf18a46b22214ff9574d9a29e064be6f^:./src/app/app.component.ts
+[2023-03-05 21:40:50.900] [     14ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- src/app/app.component.ts
+[2023-03-05 21:40:55.171] [     26ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/maps.module.ts
+[2023-03-05 21:40:55.214] [     42ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps] git ls-files -- maps.module.ts
+[2023-03-05 21:40:55.340] [     14ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps] git rev-parse --show-toplevel
+[2023-03-05 21:41:32.473] [     29ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/app.module.ts
+[2023-03-05 21:41:32.714] [     14ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/app/app.module.ts
+[2023-03-05 21:41:33.299] [     79ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log -M -n1 --format=%H 0fe925bfdf18a46b22214ff9574d9a29e064be6f^ -- src/app/app.module.ts
+[2023-03-05 21:41:33.300] [     81ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cn%x3e%x20%cN%n%x3cm%x3e%x20%cE%n%x3cc%x3e%x20%ct%n%x3cp%x3e%x20%P%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e%n%x3cf%x3e -M -m --name-status --full-history -n3 0fe925bfdf18a46b22214ff9574d9a29e064be6f --
+[2023-03-05 21:41:33.301] [     16ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git rev-parse --verify --end-of-options 0fe925bfdf18a46b22214ff9574d9a29e064be6f^:./src/app/app.module.ts
+[2023-03-05 21:41:37.428] [     17ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/app/app.module.ts
+[2023-03-05 21:41:38.239] [     30ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M -- src/app/app.module.ts
+[2023-03-05 21:41:38.273] [     30ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 12,12:src/app/app.module.ts
+[2023-03-05 21:41:40.589] [     60ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/app/app.module.ts
+[2023-03-05 21:41:43.861] [     17ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/app/app.module.ts
+[2023-03-05 21:41:44.702] [     57ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental --contents - -- src/app/app.module.ts
+[2023-03-05 21:41:44.768] [     62ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git status --porcelain=v2 --find-renames -- src/app/app.module.ts
+[2023-03-05 21:41:44.792] [     22ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 12,12:src/app/app.module.ts
+[2023-03-05 21:41:45.795] [     16ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/app/app.module.ts
+[2023-03-05 21:41:46.616] [     37ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental --contents - -- src/app/app.module.ts
+[2023-03-05 21:41:46.654] [     35ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 1,1:src/app/app.module.ts 0fe925bfdf18a46b22214ff9574d9a29e064be6f
+[2023-03-05 21:41:48.201] [     28ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/app/app.module.ts
+[2023-03-05 21:41:48.994] [     14ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 1,1:src/app/app.module.ts 0fe925bfdf18a46b22214ff9574d9a29e064be6f
+[2023-03-05 21:46:44.869] [     19ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/maps.module.ts
+[2023-03-05 21:46:44.884] [     14ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps] git ls-files -- maps.module.ts
+[2023-03-05 21:46:53.326] [     26ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/maps.module.ts
+[2023-03-05 21:46:53.373] [     46ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps] git ls-files -- maps.module.ts
+[2023-03-05 21:46:58.196] [     56ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/maps.module.ts
+[2023-03-05 21:46:58.234] [     37ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps] git ls-files -- maps.module.ts
+[2023-03-05 21:47:04.160] [     57ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/maps.module.ts
+[2023-03-05 21:47:04.184] [     23ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps] git ls-files -- maps.module.ts
+[2023-03-05 21:47:05.663] [     22ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/maps.module.ts
+[2023-03-05 21:47:05.700] [     36ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps] git ls-files -- maps.module.ts
+[2023-03-05 21:47:24.201] [     24ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/pages/maps-pages/maps-pages.component.ts
+[2023-03-05 21:47:24.239] [     37ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/pages/maps-pages] git ls-files -- maps-pages.component.ts
+[2023-03-05 21:47:24.300] [     18ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/pages/maps-pages] git rev-parse --show-toplevel
+[2023-03-05 21:47:27.470] [     42ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/maps.module.ts
+[2023-03-05 21:47:27.486] [     15ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps] git ls-files -- maps.module.ts
+[2023-03-05 21:47:31.100] [     14ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/maps.module.ts
+[2023-03-05 21:47:31.121] [     20ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps] git ls-files -- maps.module.ts
+[2023-03-05 21:47:32.708] [     35ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/maps.module.ts
+[2023-03-05 21:47:32.730] [     20ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps] git ls-files -- maps.module.ts
+[2023-03-05 21:47:34.556] [     34ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/maps.module.ts
+[2023-03-05 21:47:34.589] [     32ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps] git ls-files -- maps.module.ts
+[2023-03-05 21:47:44.665] [     11ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/maps.module.ts
+[2023-03-05 21:47:44.679] [     13ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps] git ls-files -- maps.module.ts
+[2023-03-05 21:48:03.583] [     23ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/app.component.html
+[2023-03-05 21:48:03.846] [     13ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/app/app.component.html
+[2023-03-05 21:48:04.387] [     36ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log -M -n1 --format=%H 0fe925bfdf18a46b22214ff9574d9a29e064be6f^ -- src/app/app.component.html
+[2023-03-05 21:48:04.387] [     37ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cn%x3e%x20%cN%n%x3cm%x3e%x20%cE%n%x3cc%x3e%x20%ct%n%x3cp%x3e%x20%P%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e%n%x3cf%x3e -M -m --name-status --full-history -n3 0fe925bfdf18a46b22214ff9574d9a29e064be6f --
+[2023-03-05 21:48:04.390] [     18ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git rev-parse --verify --end-of-options 0fe925bfdf18a46b22214ff9574d9a29e064be6f^:./src/app/app.component.html
+[2023-03-05 21:48:07.527] [     17ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/app/app.component.html
+[2023-03-05 21:48:09.828] [     11ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/app/app.component.html
+[2023-03-05 21:48:10.633] [     11ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental --contents - -- src/app/app.component.html
+[2023-03-05 21:48:10.646] [     12ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git status --porcelain=v2 --find-renames -- src/app/app.component.html
+[2023-03-05 21:48:10.660] [     13ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/app/app.component.html
+[2023-03-05 21:48:22.296] [     12ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/app/app.component.html
+[2023-03-05 21:48:23.142] [     48ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental --contents - -- src/app/app.component.html
+[2023-03-05 21:48:23.189] [     44ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git status --porcelain=v2 --find-renames -- src/app/app.component.html
+[2023-03-05 21:48:23.209] [     18ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/app/app.component.html
+[2023-03-05 21:48:25.062] [     16ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/app/app.component.html
+[2023-03-05 21:48:31.610] [     37ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/app/app.component.html
+[2023-03-05 21:48:32.413] [     33ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M -- src/app/app.component.html
+[2023-03-05 21:48:32.448] [     32ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M --staged -- src/app/app.component.html
+[2023-03-05 21:48:32.484] [     33ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/app/app.component.html
+[2023-03-05 21:48:32.512] [     26ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n4 -m -L 2,2:src/app/app.component.html
+[2023-03-05 21:48:36.436] [     53ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/app/app.component.html
+[2023-03-05 21:48:37.194] [     12ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M -- src/app/app.component.html
+[2023-03-05 21:48:37.206] [     10ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M --staged -- src/app/app.component.html
+[2023-03-05 21:48:37.218] [     10ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/app/app.component.html
+[2023-03-05 21:48:37.230] [     12ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n4 -m -L 2,2:src/app/app.component.html
+[2023-03-05 21:48:41.822] [     24ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/maps.module.ts
+[2023-03-05 21:48:41.845] [     22ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps] git ls-files -- maps.module.ts
+[2023-03-05 21:48:46.732] [     25ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/pages/maps-pages/maps-pages.component.ts
+[2023-03-05 21:48:46.750] [     17ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/pages/maps-pages] git ls-files -- maps-pages.component.ts
+[2023-03-05 21:48:56.000] [     54ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 1,1:src/app/app.component.html
+[2023-03-05 21:49:00.030] [     14ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/app/app.component.html
+[2023-03-05 21:49:00.847] [     16ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental --contents - -- src/app/app.component.html
+[2023-03-05 21:49:00.862] [     13ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git status --porcelain=v2 --find-renames -- src/app/app.component.html
+[2023-03-05 21:49:00.874] [     11ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/app/app.component.html
+[2023-03-05 21:49:01.812] [     13ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/app/app.component.html
+[2023-03-05 21:49:02.284] [     46ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/app/app.component.html
+[2023-03-05 21:49:02.833] [     39ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M -- src/app/app.component.html
+[2023-03-05 21:49:02.868] [     31ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M --staged -- src/app/app.component.html
+[2023-03-05 21:49:02.909] [     39ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/app/app.component.html
+[2023-03-05 21:49:02.946] [     35ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n4 -m -L 2,2:src/app/app.component.html
+[2023-03-05 21:50:50.892] [     23ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/main.ts
+[2023-03-05 21:50:51.170] [     32ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:50:51.749] [     72ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log -M -n1 --format=%H 0fe925bfdf18a46b22214ff9574d9a29e064be6f^ -- src/main.ts
+[2023-03-05 21:50:51.750] [     73ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cn%x3e%x20%cN%n%x3cm%x3e%x20%cE%n%x3cc%x3e%x20%ct%n%x3cp%x3e%x20%P%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e%n%x3cf%x3e -M -m --name-status --full-history -n3 0fe925bfdf18a46b22214ff9574d9a29e064be6f --
+[2023-03-05 21:50:51.759] [     34ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git rev-parse --verify --end-of-options 0fe925bfdf18a46b22214ff9574d9a29e064be6f^:./src/main.ts
+[2023-03-05 21:50:57.021] [     24ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:50:57.831] [     29ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 5,5:src/main.ts 0fe925bfdf18a46b22214ff9574d9a29e064be6f
+[2023-03-05 21:51:02.878] [     35ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:51:03.650] [     10ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental --contents - -- src/main.ts
+[2023-03-05 21:51:03.661] [     10ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 5,5:src/main.ts 0fe925bfdf18a46b22214ff9574d9a29e064be6f
+[2023-03-05 21:51:06.343] [     13ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:51:07.196] [     35ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 5,5:src/main.ts 0fe925bfdf18a46b22214ff9574d9a29e064be6f
+[2023-03-05 21:51:09.239] [     95ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:51:09.992] [     15ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 5,5:src/main.ts 0fe925bfdf18a46b22214ff9574d9a29e064be6f
+[2023-03-05 21:51:12.873] [     17ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:51:16.426] [     13ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:51:17.224] [     15ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 5,5:src/main.ts 0fe925bfdf18a46b22214ff9574d9a29e064be6f
+[2023-03-05 21:51:24.824] [     16ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:51:25.640] [     20ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 5,5:src/main.ts 0fe925bfdf18a46b22214ff9574d9a29e064be6f
+[2023-03-05 21:51:27.998] [     20ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:51:28.818] [     41ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 5,5:src/main.ts 0fe925bfdf18a46b22214ff9574d9a29e064be6f
+[2023-03-05 21:51:31.045] [     13ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:51:31.875] [     35ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M -- src/main.ts
+[2023-03-05 21:51:31.910] [     33ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 6,6:src/main.ts
+[2023-03-05 21:51:34.697] [     46ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:51:35.491] [     40ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M -- src/main.ts
+[2023-03-05 21:51:35.554] [     59ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 6,6:src/main.ts
+[2023-03-05 21:51:46.283] [     24ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:51:47.094] [     27ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental --contents - -- src/main.ts
+[2023-03-05 21:51:47.111] [     16ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git status --porcelain=v2 --find-renames -- src/main.ts
+[2023-03-05 21:51:47.127] [     15ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 6,6:src/main.ts
+[2023-03-05 21:51:51.545] [     18ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:51:52.455] [     99ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M -- src/main.ts
+[2023-03-05 21:51:52.495] [     37ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 6,6:src/main.ts
+[2023-03-05 21:51:57.285] [     20ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:51:58.183] [     76ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental --contents - -- src/main.ts
+[2023-03-05 21:51:58.220] [     36ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git status --porcelain=v2 --find-renames -- src/main.ts
+[2023-03-05 21:51:58.234] [     13ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 6,6:src/main.ts
+[2023-03-05 21:52:00.315] [     14ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:52:01.162] [     54ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental --contents - -- src/main.ts
+[2023-03-05 21:52:01.182] [     18ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git status --porcelain=v2 --find-renames -- src/main.ts
+[2023-03-05 21:52:01.194] [     11ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 6,6:src/main.ts
+[2023-03-05 21:52:02.211] [     23ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:52:03.694] [     55ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:52:04.520] [     57ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M -- src/main.ts
+[2023-03-05 21:52:04.569] [     46ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 6,6:src/main.ts
+[2023-03-05 21:52:21.454] [     19ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:52:24.732] [     12ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:52:26.625] [     16ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:52:27.316] [     28ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:52:27.832] [     11ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M -- src/main.ts
+[2023-03-05 21:52:27.847] [     14ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 6,6:src/main.ts
+[2023-03-05 21:52:40.063] [     34ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:52:40.845] [     16ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M -- src/main.ts
+[2023-03-05 21:52:40.861] [     15ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 6,6:src/main.ts
+[2023-03-05 21:52:44.974] [     36ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log -M -n1 --format=%H 0fe925bfdf18a46b22214ff9574d9a29e064be6f^ -- src/main.ts
+[2023-03-05 21:52:44.974] [     36ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cn%x3e%x20%cN%n%x3cm%x3e%x20%cE%n%x3cc%x3e%x20%ct%n%x3cp%x3e%x20%P%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e%n%x3cf%x3e -M -m --name-status --full-history -n3 0fe925bfdf18a46b22214ff9574d9a29e064be6f --
+[2023-03-05 21:52:44.978] [     17ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git rev-parse --verify --end-of-options 0fe925bfdf18a46b22214ff9574d9a29e064be6f^:./src/main.ts
+[2023-03-05 21:52:48.575] [     23ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:52:49.368] [     15ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M -- src/main.ts
+[2023-03-05 21:52:49.384] [     15ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 6,6:src/main.ts
+[2023-03-05 21:52:58.179] [     53ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:53:10.888] [     21ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:53:11.680] [     15ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M -- src/main.ts
+[2023-03-05 21:53:11.694] [     13ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 6,6:src/main.ts
+[2023-03-05 21:53:13.334] [     26ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git blame --root --incremental -- src/main.ts
+[2023-03-05 21:53:14.111] [     29ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M -- src/main.ts
+[2023-03-05 21:53:14.125] [     14ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git log --format=%x3cr%x3e%x20%H -n3 -m -L 6,6:src/main.ts
+[2023-03-05 21:55:15.619] [     46ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:55:15.652] [     33ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:55:15.808] [     40ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git rev-parse --show-toplevel
+[2023-03-05 21:55:49.112] [     57ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/index.ts
+[2023-03-05 21:55:49.172] [     60ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- index.ts
+[2023-03-05 21:56:06.785] [     49ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/index.ts
+[2023-03-05 21:56:06.831] [     45ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- index.ts
+[2023-03-05 21:56:08.541] [     12ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/index.ts
+[2023-03-05 21:56:08.556] [     15ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- index.ts
+[2023-03-05 21:56:11.230] [     37ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/index.ts
+[2023-03-05 21:56:11.257] [     27ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- index.ts
+[2023-03-05 21:56:13.124] [     10ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/index.ts
+[2023-03-05 21:56:13.134] [      9ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- index.ts
+[2023-03-05 21:56:17.138] [     39ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/index.ts
+[2023-03-05 21:56:17.167] [     28ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- index.ts
+[2023-03-05 21:56:21.140] [     41ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/index.ts
+[2023-03-05 21:56:21.209] [     68ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- index.ts
+[2023-03-05 21:56:28.178] [     14ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/index.ts
+[2023-03-05 21:56:28.199] [     21ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- index.ts
+[2023-03-05 21:56:38.064] [     43ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/maps.module.ts
+[2023-03-05 21:56:38.095] [     22ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps] git ls-files -- maps.module.ts
+[2023-03-05 21:56:38.706] [     61ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:56:38.728] [     21ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:56:44.993] [     16ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:56:45.009] [     16ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:56:55.312] [     11ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:56:55.323] [     10ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:57:05.499] [     36ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:57:05.563] [     63ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:57:09.048] [     47ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:57:09.096] [     48ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:57:10.545] [     40ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:57:10.630] [     84ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:57:15.345] [     38ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:57:15.387] [     41ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:57:27.899] [     15ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:57:27.914] [     14ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:57:50.210] [     11ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:57:50.221] [     10ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:58:08.453] [     15ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:58:08.465] [     10ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:58:20.296] [     14ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:58:20.315] [     19ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:58:29.891] [     17ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:58:29.908] [     16ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:58:34.157] [     13ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:58:34.172] [     14ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:58:40.352] [     35ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:58:40.392] [     39ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:58:43.457] [     36ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:58:43.554] [     97ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:58:46.718] [     13ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:58:46.731] [     12ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:58:48.266] [     38ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:58:48.313] [     46ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:59:25.541] [     80ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:59:25.572] [     31ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:59:29.254] [     39ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:59:29.293] [     38ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:59:32.279] [     41ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:59:32.344] [     64ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:59:34.834] [     38ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:59:34.901] [     66ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:59:45.905] [     68ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:59:45.948] [     43ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:59:48.919] [     45ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:59:48.976] [     56ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 21:59:51.337] [     27ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 21:59:51.358] [     21ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:00:42.313] [     25ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:00:42.343] [     29ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:00:44.140] [     19ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:00:44.162] [     21ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:00:52.615] [     37ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:00:52.703] [     88ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:00:56.423] [     35ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:00:56.469] [     45ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:00:58.545] [     37ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:00:58.645] [     99ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:01:07.908] [     76ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:01:07.929] [     21ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:01:09.050] [     18ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:01:09.097] [     46ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:01:11.362] [     50ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:01:11.431] [     68ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:01:18.800] [     52ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:01:18.868] [     68ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:01:22.826] [     16ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:01:22.846] [     19ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:01:24.381] [     11ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:01:24.393] [     11ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:01:30.798] [     21ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:01:30.837] [     38ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:01:38.577] [     24ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:01:38.593] [     16ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:01:39.754] [     12ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:01:39.769] [     14ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:01:59.796] [     11ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:01:59.807] [     11ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:02:02.719] [     17ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:02:02.737] [     18ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:02:20.624] [     42ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:02:20.656] [     31ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:02:22.332] [     30ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:02:22.375] [     42ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:02:31.681] [     10ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:02:31.692] [     10ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:02:34.158] [     53ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:02:34.197] [     38ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:02:54.842] [     58ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:02:54.908] [     58ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:02:55.985] [     43ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:02:56.007] [     21ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:03:04.354] [     21ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:03:04.373] [     18ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:03:10.889] [     40ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:03:10.960] [     70ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:03:13.407] [     90ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:03:13.424] [     17ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:03:14.732] [     26ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:03:14.781] [     48ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:03:16.733] [     28ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:03:16.755] [     21ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:03:35.165] [     13ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:03:35.179] [     13ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:03:39.668] [     37ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:03:39.697] [     29ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:03:46.064] [     45ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:03:46.099] [     35ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:03:51.212] [     11ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:03:51.224] [     11ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:03:54.259] [     14ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:03:54.270] [     11ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:04:06.274] [     12ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:04:06.286] [     12ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:04:08.023] [     44ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:04:08.099] [     74ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:04:09.292] [     57ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:04:09.357] [     64ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:04:23.706] [     45ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:04:23.771] [     64ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:04:31.782] [     13ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:04:31.795] [     12ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:04:33.522] [     15ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:04:33.541] [     18ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts
+[2023-03-05 22:06:24.316] [     26ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git ls-files -- src/app/maps/services/places.service.ts
+[2023-03-05 22:06:24.339] [     23ms] [/home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services] git ls-files -- places.service.ts

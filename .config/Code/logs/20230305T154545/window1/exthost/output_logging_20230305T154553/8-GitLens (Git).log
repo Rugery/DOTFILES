@@ -1,0 +1,10 @@
+[2023-03-05 20:46:04.035] [    148ms] [/home/rugery/Documentos/Python] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+[2023-03-05 20:46:04.036] [     52ms] [/home/rugery/Documentos/Python] git rev-parse --show-toplevel • FAILED (waited)
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+

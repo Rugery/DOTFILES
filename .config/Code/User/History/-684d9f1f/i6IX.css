@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background-image: url("/src/Images/wallpaper.jpg");
+    background-color: black;
+}
+img {
+    width: 100%;
+}

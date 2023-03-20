@@ -1,0 +1,6 @@
+2023/03/20-16:22:37.537 3 Reusing MANIFEST /home/rugery/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2023/03/20-16:22:37.667 3 Recovering log #189
+2023/03/20-16:22:37.837 3 Reusing old log /home/rugery/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000189.log 
+2023/03/20-16:24:58.373 6 Level-0 table #193: started
+2023/03/20-16:24:58.424 6 Level-0 table #193: 32855 bytes OK
+2023/03/20-16:24:58.493 6 Delete type=0 #189

@@ -1,0 +1,34 @@
+2023-03-05 15:45:53.350 [info] Starting worker process with pid 3790 (type: fileWatcher, window: 1).
+2023-03-05 15:45:59.337 [info] Getting Manifest... ms-python.python
+2023-03-05 15:45:59.341 [info] Getting Manifest... ms-python.vscode-pylance
+2023-03-05 15:45:59.343 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2023-03-05 15:46:00.076 [info] Installing extension: ms-python.python
+2023-03-05 15:46:00.077 [info] Installing extension: ms-python.vscode-pylance
+2023-03-05 15:46:00.206 [info] Installing extension: ms-toolsai.jupyter-keymap
+2023-03-05 15:46:00.983 [info] Getting Manifest... ms-python.python
+2023-03-05 15:46:01.289 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-03-05 15:46:07.419 [warning] Extension signature verification: ms-toolsai.jupyter-keymap. Verification status: UnknownError.
+2023-03-05 15:46:07.491 [info] Extracted extension to /home/rugery/.vscode/extensions/.1b542e2e-ed6d-4d3c-a8c7-e9784484d51f: ms-toolsai.jupyter-keymap
+2023-03-05 15:46:07.556 [info] Renamed to /home/rugery/.vscode/extensions/ms-toolsai.jupyter-keymap-1.1.0
+2023-03-05 15:46:07.562 [info] Extracting completed. ms-toolsai.jupyter-keymap
+2023-03-05 15:46:07.666 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2023-03-05 15:46:07.890 [info] Marked extension as uninstalled ms-toolsai.jupyter-keymap-1.0.0
+2023-03-05 15:46:07.893 [warning] Extension signature verification: ms-python.python. Verification status: UnknownError.
+2023-03-05 15:46:08.161 [warning] Extension signature verification: ms-python.vscode-pylance. Verification status: UnknownError.
+2023-03-05 15:46:14.040 [info] Extracted extension to /home/rugery/.vscode/extensions/.bc7a8026-4def-49ca-90bf-e7f6cdf9a0cb: ms-python.python
+2023-03-05 15:46:14.074 [info] Renamed to /home/rugery/.vscode/extensions/ms-python.python-2023.4.0
+2023-03-05 15:46:14.079 [info] Extracting completed. ms-python.python
+2023-03-05 15:46:14.124 [info] Extension installed successfully: ms-python.python
+2023-03-05 15:46:14.124 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-03-05 15:46:14.181 [info] Marked extension as uninstalled ms-python.python-2023.2.0
+2023-03-05 15:46:15.527 [info] Extracted extension to /home/rugery/.vscode/extensions/.4dee7052-06f8-4eff-926c-69c1f8db06b1: ms-python.vscode-pylance
+2023-03-05 15:46:15.569 [info] Renamed to /home/rugery/.vscode/extensions/ms-python.vscode-pylance-2023.3.10
+2023-03-05 15:46:15.580 [info] Extracting completed. ms-python.vscode-pylance
+2023-03-05 15:46:15.650 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-03-05 15:46:15.764 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.2.40
+2023-03-05 15:48:01.468 [info] Worker process with pid 3790 terminated normally (type: fileWatcher, window: 1).
+2023-03-05 15:48:02.393 [info] Starting worker process with pid 5247 (type: fileWatcher, window: 1).
+2023-03-05 15:51:08.314 [info] Starting worker process with pid 7373 (type: fileWatcher, window: 3).
+2023-03-05 15:51:10.441 [info] Worker process with pid 7373 terminated normally (type: fileWatcher, window: 3).
+2023-03-05 16:30:27.769 [info] Starting worker process with pid 35081 (type: fileWatcher, window: 4).
+2023-03-05 16:31:52.295 [info] Worker process with pid 35081 terminated normally (type: fileWatcher, window: 4).

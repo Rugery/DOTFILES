@@ -1,0 +1,13 @@
+body {
+   background-image: url("/Img/wallpaper.jpg");
+   background-size: cover;
+   background-position: center center;
+   background-attachment: fixed;
+
+}
+
+img {
+   width: 75%;
+   
+    
+}

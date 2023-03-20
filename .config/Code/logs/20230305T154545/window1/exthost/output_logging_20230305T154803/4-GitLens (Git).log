@@ -1,0 +1,29 @@
+[2023-03-05 20:48:04.913] [     42ms] [/home/rugery/Documentos/Programs] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+[2023-03-05 20:59:06.300] [     46ms] [/home/rugery/Documentos/Programs] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+[2023-03-05 21:01:03.872] [     31ms] [/home/rugery/Documentos/Programs/js] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+[2023-03-05 21:01:47.448] [     13ms] [/home/rugery/Documentos/Programs/css] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+[2023-03-05 21:29:47.467] [     10ms] [/home/rugery/Documentos/Programs] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+[2023-03-05 21:29:48.071] [     24ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git rev-parse --show-toplevel
+[2023-03-05 21:29:48.130] [     23ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git remote -v
+[2023-03-05 21:29:48.132] [     26ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git rev-parse --git-dir --git-common-dir
+[2023-03-05 21:29:48.629] [     17ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git remote -v

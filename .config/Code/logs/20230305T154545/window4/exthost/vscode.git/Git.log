@@ -1,0 +1,19 @@
+2023-03-05 16:30:29.829 [info] Log level: Info
+2023-03-05 16:30:29.829 [info] Validating found git in: "git"
+2023-03-05 16:30:29.829 [info] Using git "2.39.2" from "git"
+2023-03-05 16:30:29.840 [info] > git rev-parse --show-toplevel [13ms]
+2023-03-05 16:30:29.855 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2023-03-05 16:30:29.875 [info] Open repository: /home/rugery/Documentos/Programs/MapsAngular/maps
+2023-03-05 16:30:29.918 [info] > git rev-parse --show-toplevel [31ms]
+2023-03-05 16:30:29.948 [info] > git rev-parse --show-toplevel [13ms]
+2023-03-05 16:30:29.951 [info] > git config --get commit.template [37ms]
+2023-03-05 16:30:29.965 [info] No remotes found in the git config file.
+2023-03-05 16:30:29.976 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2023-03-05 16:30:30.003 [info] > git status -z -uall [18ms]
+2023-03-05 16:30:30.004 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2023-03-05 16:30:30.569 [info] > git config --get commit.template [492ms]
+2023-03-05 16:30:30.932 [info] No remotes found in the git config file.
+2023-03-05 16:30:30.934 [info] > git check-ignore -v -z --stdin [29ms]
+2023-03-05 16:30:31.211 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [280ms]
+2023-03-05 16:30:31.248 [info] > git status -z -uall [26ms]
+2023-03-05 16:30:31.248 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]

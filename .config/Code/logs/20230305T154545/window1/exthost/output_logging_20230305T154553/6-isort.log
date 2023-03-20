@@ -1,0 +1,41 @@
+Name: isort
+Module: isort
+Python extension loading
+Waiting for interpreter from python extension.
+Python extension loaded
+CWD Server: /home/rugery/Documentos/Python
+sys.path used to run Server:
+   /home/rugery/.vscode/extensions/ms-python.isort-2022.8.0/bundled/libs
+   /home/rugery/.vscode/extensions/ms-python.isort-2022.8.0/bundled/tool
+   /usr/lib/python310.zip
+   /usr/lib/python3.10
+   /usr/lib/python3.10/lib-dynload
+   /usr/lib/python3.10/site-packages
+Settings used to run Server:
+[
+    {
+        "check": false,
+        "workspace": "file:///home/rugery/Documentos/Python",
+        "logLevel": "error",
+        "args": [],
+        "severity": {
+            "W": "Warning",
+            "E": "Hint"
+        },
+        "path": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+/bin/python -m isort --version-number
+CWD Linter: /home/rugery/Documentos/Python
+Version info for isort running for /home/rugery/Documentos/Python:
+5.10.1
+
+SUPPORTED isort>=5.10.1
+FOUND isort==5.10.1
+

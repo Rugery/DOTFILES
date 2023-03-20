@@ -1,0 +1,7 @@
+[2023-03-05 21:30:31.251] [     67ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git rev-parse --show-toplevel
+[2023-03-05 21:30:31.252] [    110ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git rev-parse --show-toplevel
+[2023-03-05 21:30:31.319] [     40ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git remote -v
+[2023-03-05 21:30:31.321] [     59ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git rev-parse --git-dir --git-common-dir
+[2023-03-05 21:30:31.321] [     44ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git rev-parse --git-dir --git-common-dir (waited)
+[2023-03-05 21:30:31.406] [     10ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git remote -v
+[2023-03-05 21:30:31.932] [     49ms] [/home/rugery/Documentos/Programs/MapsAngular/maps] git remote -v

@@ -1,0 +1,6 @@
+2023/02/25-22:16:40.716 32d Creating DB /home/rugery/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.mundodeportivo.com_0.indexeddb.leveldb since it was missing.
+2023/02/25-22:16:40.908 32d Reusing MANIFEST /home/rugery/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.mundodeportivo.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/25-22:17:25.530 32d Level-0 table #5: started
+2023/02/25-22:17:25.553 32d Level-0 table #5: 170509 bytes OK
+2023/02/25-22:17:25.587 32d Delete type=0 #3
+2023/02/25-22:17:25.588 32d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

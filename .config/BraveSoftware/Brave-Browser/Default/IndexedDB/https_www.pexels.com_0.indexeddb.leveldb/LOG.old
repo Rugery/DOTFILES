@@ -1,0 +1,6 @@
+2023/03/15-16:03:34.667 2de Creating DB /home/rugery/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.pexels.com_0.indexeddb.leveldb since it was missing.
+2023/03/15-16:03:34.735 2de Reusing MANIFEST /home/rugery/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.pexels.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/15-16:08:34.083 2de Level-0 table #5: started
+2023/03/15-16:08:34.105 2de Level-0 table #5: 3858 bytes OK
+2023/03/15-16:08:34.139 2de Delete type=0 #3
+2023/03/15-16:08:34.139 2de Manual compaction at level-0 from (begin) .. (end); will stop at (end)

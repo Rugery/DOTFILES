@@ -1,0 +1,36 @@
+[Info  - 15:46:05] (3962) Pylance language server 2023.2.40 (pyright 085dfbfa) starting
+[Info  - 15:46:05] (3962) Server root directory: /home/rugery/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist
+[Info  - 15:46:05] (3962) Starting service instance "Python"
+[Info  - 15:46:05] (3962) Auto-indent enabled
+[Info  - 15:46:05] (3962) Starting service instance "<default>"
+[Info  - 15:46:05] (3962) No pyproject.toml file found.
+[Info  - 15:46:05] (3962) Setting pythonPath for service "<default>": "/bin/python"
+[Warn  - 15:46:05] (3962) stubPath typings is not a valid directory.
+[Info  - 15:46:05] (3962) Assuming Python version 3.10
+[Info  - 15:46:05] (3962) Assuming Python platform Linux
+[Info  - 15:46:06] (3962) Searching for source files
+[Info  - 15:46:06] (3962) No source files found.
+[Info  - 15:46:06] (3962) Background analysis(1) root directory: /home/rugery/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist
+[Info  - 15:46:06] (3962) Background analysis(1) started
+[Info  - 15:46:06] (3962) Background analysis(2) root directory: /home/rugery/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist
+[Info  - 15:46:06] (3962) Background analysis(2) started
+[Info  - 15:46:06] (3962) No configuration file found.
+[Info  - 15:46:06] (3962) No pyproject.toml file found.
+[Info  - 15:46:06] (3962) Setting pythonPath for service "Python": "/bin/python"
+[Warn  - 15:46:06] (3962) stubPath /home/rugery/Documentos/Python/typings is not a valid directory.
+[Info  - 15:46:06] (3962) Assuming Python version 3.10
+[Info  - 15:46:06] (3962) Assuming Python platform Linux
+[Info  - 15:46:06] (3962) Searching for source files
+[Info  - 15:46:06] (3962) Found 1 source file
+[Info  - 15:46:06] (3962) No pyproject.toml file found.
+[Info  - 15:46:06] (3962) Setting pythonPath for service "<default>": "/bin/python"
+[Warn  - 15:46:06] (3962) stubPath typings is not a valid directory.
+[Info  - 15:46:06] (3962) Assuming Python version 3.10
+[Info  - 15:46:06] (3962) Assuming Python platform Linux
+[Info  - 15:46:07] (3962) Searching for source files
+[Info  - 15:46:07] (3962) No source files found.
+[Info  - 15:46:08] (3962) Indexer background runner(3) root directory: /home/rugery/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist (index)
+[Info  - 15:46:08] (3962) Indexing(3) started
+[Info  - 15:46:10] (3962) scanned(3) 25 files over 1 exec env
+[Info  - 15:46:11] (3962) indexed(3) 4 files over 1 exec env
+[Info  - 15:46:11] (3962) Indexing finished(3).

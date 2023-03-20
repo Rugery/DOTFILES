@@ -1,0 +1,64 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "monospace",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+
+
+    "better-comments.tags": [
+        {
+          "tag": "!",
+          "color": "#FF2D00",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "tag": "?",
+          "color": "#3498DB",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "tag": "//",
+          "color": "#474747",
+          "strikethrough": true,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "tag": "todo",
+          "color": "#FF8C00",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "tag": "*",
+          "color": "#98C379",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "editor.fontVariations": false,
+      "editor.fontFamily": "'Cascadia Code PL',Consolas, monospace",
+      "workbench.colorTheme": "Ayu One Dark",
+      "editor.linkedEditing": true,
+      "files.autoSave": "afterDelay",
+      "[python]": {
+        "editor.formatOnType": true
+      },
+      "security.workspace.trust.untrustedFiles": "open"
+}

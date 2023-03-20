@@ -1,0 +1,30 @@
+2023/03/15-15:25:56.902 2dd Reusing MANIFEST /home/rugery/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/15-15:25:56.902 2dd Recovering log #29
+2023/03/15-15:25:56.902 2dd Reusing old log /home/rugery/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000029.log 
+2023/03/15-15:26:16.761 300 Level-0 table #33: started
+2023/03/15-15:26:16.784 300 Level-0 table #33: 523 bytes OK
+2023/03/15-15:26:16.818 300 Delete type=0 #29
+2023/03/15-15:26:16.818 2dd Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\x05' @ 851 : 1
+2023/03/15-15:26:16.818 2dd Compacting 1@0 + 1@1 files
+2023/03/15-15:26:16.842 2dd Generated table #34@0: 11 keys, 490 bytes
+2023/03/15-15:26:16.842 2dd Compacted 1@0 + 1@1 files => 490 bytes
+2023/03/15-15:26:16.875 2dd compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/15-15:26:16.876 2dd Delete type=2 #33
+2023/03/15-15:26:16.876 2dd Manual compaction at level-0 from '\x00\x0a\x00\x00\x05' @ 851 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/15-15:41:22.897 2dd Compacting 1@1 + 1@2 files
+2023/03/15-15:41:22.920 2dd Generated table #35@1: 57 keys, 1068 bytes
+2023/03/15-15:41:22.920 2dd Compacted 1@1 + 1@2 files => 1068 bytes
+2023/03/15-15:41:22.953 2dd compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/15-15:41:22.954 2dd Delete type=2 #27
+2023/03/15-15:41:22.954 2dd Delete type=2 #30
+2023/03/15-15:41:22.954 2dd Delete type=2 #34
+2023/03/15-15:43:07.504 300 Level-0 table #37: started
+2023/03/15-15:43:07.541 300 Level-0 table #37: 510941 bytes OK
+2023/03/15-15:43:07.575 300 Delete type=0 #32
+2023/03/15-15:43:07.575 2dd Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/15-15:55:48.754 2dd Compacting 1@1 + 1@2 files
+2023/03/15-15:55:48.821 2dd Generated table #38@1: 965 keys, 34363 bytes
+2023/03/15-15:55:48.822 2dd Compacted 1@1 + 1@2 files => 34363 bytes
+2023/03/15-15:55:48.856 2dd compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/15-15:55:48.857 2dd Delete type=2 #37
+2023/03/15-15:55:48.857 2dd Delete type=2 #35

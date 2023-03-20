@@ -1,0 +1,9 @@
+2023/02/27-17:06:26.329 440 Reusing MANIFEST /home/rugery/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/02/27-17:06:26.331 440 Recovering log #7
+2023/02/27-17:06:26.515 440 Reusing old log /home/rugery/.config/discord/Local Storage/leveldb/000007.log 
+2023/02/27-17:08:46.500 4dc Level-0 table #10: started
+2023/02/27-17:08:46.832 4dc Level-0 table #10: 1432211 bytes OK
+2023/02/27-17:08:46.862 4dc Delete type=0 #7
+2023/02/27-18:24:46.500 441 Level-0 table #12: started
+2023/02/27-18:24:46.542 441 Level-0 table #12: 10960 bytes OK
+2023/02/27-18:24:46.587 441 Delete type=0 #9

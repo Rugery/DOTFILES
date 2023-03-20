@@ -1,0 +1,49 @@
+2023-03-05 17:06:32.752 [info] Log level: Info
+2023-03-05 17:06:32.752 [info] Validating found git in: "git"
+2023-03-05 17:06:32.752 [info] Using git "2.39.2" from "git"
+2023-03-05 17:06:32.752 [info] > git rev-parse --show-toplevel [211ms]
+2023-03-05 17:06:32.752 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-05 17:06:32.882 [info] > git rev-parse --show-toplevel [275ms]
+2023-03-05 17:06:33.850 [info] > git rev-parse --git-dir --git-common-dir [330ms]
+2023-03-05 17:06:33.888 [info] Open repository: /home/rugery/Documentos/Programs/MapsAngular/maps
+2023-03-05 17:06:34.006 [info] > git rev-parse --show-toplevel [100ms]
+2023-03-05 17:06:34.006 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-05 17:06:34.143 [info] > git rev-parse --show-toplevel [122ms]
+2023-03-05 17:06:34.143 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-05 17:06:34.213 [info] > git config --get commit.template [213ms]
+2023-03-05 17:06:34.471 [info] > git rev-parse --show-toplevel [258ms]
+2023-03-05 17:06:34.471 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-05 17:06:34.561 [info] No remotes found in the git config file.
+2023-03-05 17:06:34.572 [info] > git rev-parse --show-toplevel [88ms]
+2023-03-05 17:06:34.572 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-05 17:06:34.609 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [50ms]
+2023-03-05 17:06:34.714 [info] > git status -z -uall [79ms]
+2023-03-05 17:06:34.751 [info] > git rev-parse --show-toplevel [145ms]
+2023-03-05 17:06:34.751 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-05 17:06:34.858 [info] > git rev-parse --show-toplevel [57ms]
+2023-03-05 17:06:34.858 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-05 17:06:34.859 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [155ms]
+2023-03-05 17:06:34.927 [info] > git config --get commit.template [8ms]
+2023-03-05 17:06:34.957 [info] No remotes found in the git config file.
+2023-03-05 17:06:35.029 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [72ms]
+2023-03-05 17:06:35.215 [info] > git status -z -uall [161ms]
+2023-03-05 17:06:35.215 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [144ms]
+2023-03-05 17:06:35.421 [info] > git check-ignore -v -z --stdin [17ms]
+2023-03-05 17:06:35.680 [info] > git rev-parse --show-toplevel [72ms]
+2023-03-05 17:06:35.680 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-05 17:06:36.113 [info] > git rev-parse --show-toplevel [15ms]
+2023-03-05 17:06:36.113 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-05 17:06:36.335 [info] > git show --textconv :src/app/maps/services/places.service.ts [73ms]
+2023-03-05 17:06:36.492 [info] > git ls-files --stage -- /home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services/places.service.ts [159ms]
+2023-03-05 17:06:36.776 [info] > git rev-parse --show-toplevel [53ms]
+2023-03-05 17:06:36.776 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-05 17:06:40.447 [info] > git rev-parse --show-toplevel [35ms]
+2023-03-05 17:06:40.447 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-05 17:06:41.269 [info] > git check-ignore -v -z --stdin [4ms]
+2023-03-05 17:06:44.039 [info] > git config --get commit.template [2ms]
+2023-03-05 17:06:44.053 [info] No remotes found in the git config file.
+2023-03-05 17:06:44.054 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-03-05 17:06:44.077 [info] > git status -z -uall [12ms]
+2023-03-05 17:06:44.078 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-03-05 17:06:44.125 [info] > git ls-files --stage -- /home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services/places.service.ts [4ms]
+2023-03-05 17:06:44.146 [info] > git show --textconv :src/app/maps/services/places.service.ts [2ms]

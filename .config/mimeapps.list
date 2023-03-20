@@ -1,0 +1,11 @@
+[Added Associations]
+application/x-shellscript=micro.desktop;
+text/plain=micro.desktop;
+inode/directory=xarchiver.desktop;
+application/x-executable=micro.desktop;
+video/mp4=brave-browser.desktop;
+application/vnd.openxmlformats-officedocument.presentationml.presentation=brave-browser.desktop;
+
+[Default Applications]
+application/x-executable=micro.desktop
+video/mp4=brave-browser.desktop

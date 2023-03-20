@@ -1,0 +1,17 @@
+2023-03-15 15:52:30.203 [info] [perf] Render performance baseline is 78ms
+2023-03-15 15:52:30.941 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-15 15:52:32.550 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-15 15:52:37.062 [error] [Extension Host] (node:5547) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-03-15 15:52:39.562 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-15 15:52:40.840 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-15 16:00:04.657 [error] [Extension Host] (node:6944) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-03-15 16:00:04.877 [error] undefined is not iterable (cannot read property Symbol(Symbol.iterator)): TypeError: undefined is not iterable (cannot read property Symbol(Symbol.iterator))
+    at ConfigurationManager.<anonymous> (/home/rugery/.vscode/extensions/alexiv.vscode-angular2-files-1.6.4/out/src/configuration-manager.js:28:26)
+    at Generator.next (<anonymous>)
+    at fulfilled (/home/rugery/.vscode/extensions/alexiv.vscode-angular2-files-1.6.4/out/src/configuration-manager.js:5:58)
+2023-03-15 16:00:04.997 [info] [perf] Render performance baseline is 72ms
+2023-03-15 16:00:34.816 [error] [Extension Host] (node:7070) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-03-15 16:00:35.725 [info] [perf] Render performance baseline is 64ms

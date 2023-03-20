@@ -1,0 +1,12 @@
+2023-03-15 16:35:03.245 [info] Electron sandbox mode is enabled!
+2023-03-15 16:35:05.219 [error] [Extension Host] (node:10695) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-03-15 16:35:05.693 [error] undefined is not iterable (cannot read property Symbol(Symbol.iterator)): TypeError: undefined is not iterable (cannot read property Symbol(Symbol.iterator))
+    at ConfigurationManager.<anonymous> (/home/rugery/.vscode/extensions/alexiv.vscode-angular2-files-1.6.4/out/src/configuration-manager.js:28:26)
+    at Generator.next (<anonymous>)
+    at fulfilled (/home/rugery/.vscode/extensions/alexiv.vscode-angular2-files-1.6.4/out/src/configuration-manager.js:5:58)
+2023-03-15 16:35:06.561 [info] [perf] Render performance baseline is 86ms
+2023-03-15 16:39:04.960 [info] Electron sandbox mode is enabled!
+2023-03-15 16:39:07.649 [error] [Extension Host] (node:11650) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-03-15 16:39:08.568 [info] [perf] Render performance baseline is 81ms

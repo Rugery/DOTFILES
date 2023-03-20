@@ -1,0 +1,80 @@
+2023-03-15 15:52:26.487 [info] Starting worker process with pid 5608 (type: fileWatcher, window: 1).
+2023-03-15 15:52:30.907 [info] Getting Manifest... eamodio.gitlens
+2023-03-15 15:52:30.909 [info] Getting Manifest... ms-python.python
+2023-03-15 15:52:30.911 [info] Getting Manifest... ms-python.vscode-pylance
+2023-03-15 15:52:30.912 [info] Getting Manifest... ms-toolsai.jupyter
+2023-03-15 15:52:30.914 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-03-15 15:52:30.915 [info] Getting Manifest... ms-vsliveshare.vsliveshare
+2023-03-15 15:52:30.916 [info] Getting Manifest... pkief.material-icon-theme
+2023-03-15 15:52:30.918 [info] Getting Manifest... zhuangtongfa.material-theme
+2023-03-15 15:52:31.191 [info] Installing extension: eamodio.gitlens
+2023-03-15 15:52:31.273 [info] Installing extension: ms-python.vscode-pylance
+2023-03-15 15:52:31.284 [info] Installing extension: ms-python.python
+2023-03-15 15:52:31.428 [info] Installing extension: ms-toolsai.jupyter
+2023-03-15 15:52:31.474 [info] Installing extension: ms-toolsai.jupyter-renderers
+2023-03-15 15:52:31.477 [info] Installing extension: ms-vsliveshare.vsliveshare
+2023-03-15 15:52:31.536 [info] Installing extension: pkief.material-icon-theme
+2023-03-15 15:52:31.565 [info] Installing extension: zhuangtongfa.material-theme
+2023-03-15 15:52:32.956 [info] Getting Manifest... ms-python.python
+2023-03-15 15:52:34.332 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-03-15 15:52:40.355 [warning] Extension signature verification: pkief.material-icon-theme. Verification status: UnknownError.
+2023-03-15 15:52:40.358 [warning] Extension signature verification: ms-toolsai.jupyter. Verification status: UnknownError.
+2023-03-15 15:52:40.360 [warning] Extension signature verification: ms-python.python. Verification status: UnknownError.
+2023-03-15 15:52:40.361 [warning] Extension signature verification: ms-vsliveshare.vsliveshare. Verification status: UnknownError.
+2023-03-15 15:52:40.365 [warning] Extension signature verification: ms-python.vscode-pylance. Verification status: UnknownError.
+2023-03-15 15:52:40.369 [warning] Extension signature verification: ms-toolsai.jupyter-renderers. Verification status: UnknownError.
+2023-03-15 15:52:40.370 [warning] Extension signature verification: zhuangtongfa.material-theme. Verification status: UnknownError.
+2023-03-15 15:52:40.370 [warning] Extension signature verification: eamodio.gitlens. Verification status: UnknownError.
+2023-03-15 15:52:42.000 [info] Extracted extension to /home/rugery/.vscode/extensions/.7aee0863-0b4f-4555-b9a7-0887a8a38df5: zhuangtongfa.material-theme
+2023-03-15 15:52:42.104 [info] Renamed to /home/rugery/.vscode/extensions/zhuangtongfa.material-theme-3.15.8
+2023-03-15 15:52:42.125 [info] Extracting extension completed. zhuangtongfa.material-theme
+2023-03-15 15:52:42.219 [info] Extension installed successfully: zhuangtongfa.material-theme
+2023-03-15 15:52:42.274 [info] Marked extension as uninstalled zhuangtongfa.material-theme-3.15.6
+2023-03-15 15:52:44.911 [info] Extracted extension to /home/rugery/.vscode/extensions/.64c6c080-a153-4926-90be-20da72b80baa: ms-toolsai.jupyter-renderers
+2023-03-15 15:52:45.018 [info] Renamed to /home/rugery/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.15
+2023-03-15 15:52:45.024 [info] Extracting extension completed. ms-toolsai.jupyter-renderers
+2023-03-15 15:52:45.141 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-03-15 15:52:45.151 [info] Marked extension as uninstalled ms-toolsai.jupyter-renderers-1.0.14
+2023-03-15 15:52:45.487 [info] Extracted extension to /home/rugery/.vscode/extensions/.3a4b08fb-bb87-4cae-a372-03feac542509: eamodio.gitlens
+2023-03-15 15:52:45.594 [info] Renamed to /home/rugery/.vscode/extensions/eamodio.gitlens-13.3.2
+2023-03-15 15:52:45.603 [info] Extracting extension completed. eamodio.gitlens
+2023-03-15 15:52:45.624 [info] Extracted extension to /home/rugery/.vscode/extensions/.319fd3e4-40e3-4895-9d71-926d10169124: ms-toolsai.jupyter
+2023-03-15 15:52:45.741 [info] Extension installed successfully: eamodio.gitlens
+2023-03-15 15:52:45.754 [info] Marked extension as uninstalled eamodio.gitlens-13.3.1
+2023-03-15 15:52:45.812 [info] Renamed to /home/rugery/.vscode/extensions/ms-toolsai.jupyter-2023.2.1200692131
+2023-03-15 15:52:45.823 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-03-15 15:52:45.963 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-03-15 15:52:45.994 [info] Marked extension as uninstalled ms-toolsai.jupyter-2023.1.2010391206
+2023-03-15 15:52:46.404 [info] Extracted extension to /home/rugery/.vscode/extensions/.50ca659a-89e6-4aeb-9acf-cded837bb851: pkief.material-icon-theme
+2023-03-15 15:52:46.514 [info] Renamed to /home/rugery/.vscode/extensions/pkief.material-icon-theme-4.25.0
+2023-03-15 15:52:46.518 [info] Extracting extension completed. pkief.material-icon-theme
+2023-03-15 15:52:46.613 [info] Extension installed successfully: pkief.material-icon-theme
+2023-03-15 15:52:46.622 [info] Marked extension as uninstalled pkief.material-icon-theme-4.24.0
+2023-03-15 15:52:48.567 [info] Extracted extension to /home/rugery/.vscode/extensions/.3675b338-c5b6-466d-8f43-809dbbcfffce: ms-vsliveshare.vsliveshare
+2023-03-15 15:52:48.854 [info] Renamed to /home/rugery/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5834
+2023-03-15 15:52:48.860 [info] Extracting extension completed. ms-vsliveshare.vsliveshare
+2023-03-15 15:52:49.139 [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+2023-03-15 15:52:49.172 [info] Marked extension as uninstalled ms-vsliveshare.vsliveshare-1.0.5832
+2023-03-15 15:52:50.328 [info] Extracted extension to /home/rugery/.vscode/extensions/.6c8569c3-12be-4a32-942a-71985664908a: ms-python.python
+2023-03-15 15:52:50.709 [info] Renamed to /home/rugery/.vscode/extensions/ms-python.python-2023.4.1
+2023-03-15 15:52:50.714 [info] Extracting extension completed. ms-python.python
+2023-03-15 15:52:51.027 [info] Extension installed successfully: ms-python.python
+2023-03-15 15:52:51.027 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-03-15 15:52:51.043 [info] Marked extension as uninstalled ms-python.python-2023.4.0
+2023-03-15 15:52:53.289 [info] Extracted extension to /home/rugery/.vscode/extensions/.0319c897-8889-494f-8a65-e8b064f946a2: ms-python.vscode-pylance
+2023-03-15 15:52:53.533 [info] Renamed to /home/rugery/.vscode/extensions/ms-python.vscode-pylance-2023.3.20
+2023-03-15 15:52:53.544 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-03-15 15:52:53.628 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-03-15 15:52:53.670 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.3.10
+2023-03-15 16:00:01.299 [info] Worker process with pid 5608 terminated normally (type: fileWatcher, window: 1).
+2023-03-15 16:00:02.165 [info] Starting worker process with pid 6943 (type: fileWatcher, window: 1).
+2023-03-15 16:00:16.508 [info] Uninstalling extension from the profile: angular.ng-template@15.2.0 vscode-userdata:/home/rugery/.vscode/extensions/extensions.json
+2023-03-15 16:00:16.785 [info] Marked extension as uninstalled angular.ng-template-15.2.0
+2023-03-15 16:00:16.914 [info] Successfully uninstalled extension from the profile angular.ng-template@15.2.0 vscode-userdata:/home/rugery/.vscode/extensions/extensions.json
+2023-03-15 16:00:18.153 [info] Getting Manifest... angular.ng-template
+2023-03-15 16:00:18.272 [info] Installing extension: angular.ng-template
+2023-03-15 16:00:18.826 [warning] Extension signature verification: angular.ng-template. Verification status: UnknownError.
+2023-03-15 16:00:18.891 [info] Removed the extension from uninstalled list: angular.ng-template
+2023-03-15 16:00:18.995 [info] Extension installed successfully: angular.ng-template
+2023-03-15 16:00:31.852 [info] Worker process with pid 6943 terminated normally (type: fileWatcher, window: 1).
+2023-03-15 16:00:32.803 [info] Starting worker process with pid 7071 (type: fileWatcher, window: 1).

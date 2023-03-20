@@ -1,0 +1,11 @@
+2023-03-15 16:35:05.240 [info] Starting worker process with pid 10748 (type: fileWatcher, window: 1).
+2023-03-15 16:35:07.118 [info] Deleted from disk ms-toolsai.jupyter-renderers /home/rugery/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.14
+2023-03-15 16:35:07.124 [info] Deleted from disk pkief.material-icon-theme /home/rugery/.vscode/extensions/pkief.material-icon-theme-4.24.0
+2023-03-15 16:35:07.329 [info] Deleted from disk eamodio.gitlens /home/rugery/.vscode/extensions/eamodio.gitlens-13.3.1
+2023-03-15 16:35:07.371 [info] Deleted from disk zhuangtongfa.material-theme /home/rugery/.vscode/extensions/zhuangtongfa.material-theme-3.15.6
+2023-03-15 16:35:07.589 [info] Deleted from disk ms-toolsai.jupyter /home/rugery/.vscode/extensions/ms-toolsai.jupyter-2023.1.2010391206
+2023-03-15 16:35:07.680 [info] Deleted from disk ms-python.vscode-pylance /home/rugery/.vscode/extensions/ms-python.vscode-pylance-2023.3.10
+2023-03-15 16:35:07.750 [info] Deleted from disk ms-python.python /home/rugery/.vscode/extensions/ms-python.python-2023.4.0
+2023-03-15 16:35:07.777 [info] Deleted from disk ms-vsliveshare.vsliveshare /home/rugery/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5832
+2023-03-15 16:39:04.376 [info] Worker process with pid 10748 terminated normally (type: fileWatcher, window: 1).
+2023-03-15 16:39:05.481 [info] Starting worker process with pid 11652 (type: fileWatcher, window: 1).

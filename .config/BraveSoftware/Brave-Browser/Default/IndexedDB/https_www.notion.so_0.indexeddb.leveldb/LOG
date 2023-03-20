@@ -1,0 +1,7 @@
+2023/03/15-17:11:44.433 52b5 Reusing MANIFEST /home/rugery/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/15-17:11:44.433 52b5 Recovering log #36
+2023/03/15-17:11:44.478 52b5 Reusing old log /home/rugery/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000036.log 
+2023/03/15-17:11:45.334 52b8 Level-0 table #41: started
+2023/03/15-17:11:45.371 52b8 Level-0 table #41: 344059 bytes OK
+2023/03/15-17:11:45.405 52b8 Delete type=0 #36
+2023/03/15-17:11:45.406 52b5 Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)

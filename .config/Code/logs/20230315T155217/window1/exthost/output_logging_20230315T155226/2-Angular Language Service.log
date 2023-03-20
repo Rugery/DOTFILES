@@ -1,0 +1,21 @@
+[Info  - 15:52:41] Angular language server process ID: 5679
+[Info  - 15:52:41] Using typescript/lib/tsserverlibrary v4.8.2 from /home/rugery/.vscode/extensions/angular.ng-template-15.2.0/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 15:52:41] Using @angular/language-service v15.2.0 from /home/rugery/.vscode/extensions/angular.ng-template-15.2.0/node_modules/@angular/language-service/index.js
+[Info  - 15:52:41] Logging is turned off. To enable, run command 'Open Angular server log'.
+[Error - 15:52:55] Failed to run ngcc for /home/rugery/Documentos/Programs/MapsAngular/maps/tsconfig.json, language service may not operate correctly:
+    Failed to resolve ngcc from /home/rugery/Documentos/Programs/MapsAngular/maps
+[Info  - 15:52:55] Enabling Ivy language service for /home/rugery/Documentos/Programs/MapsAngular/maps/tsconfig.json.
+[Error - 15:52:56] No config file for /home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services/places.service.ts
+[Error - 15:52:58] No config file for /home/rugery/Documentos/Programs/MapsAngular/maps/src/app/maps/services/places.service.ts
+/home/rugery/.vscode/extensions/angular.ng-template-15.2.0/node_modules/vscode-jsonrpc/lib/common/connection.js:477
+                        responsePromise.reject(new messages_1.ResponseError(error.code, error.message, error.data));
+                                               ^
+
+ResponseError: Request window/showMessageRequest failed with message: Canceled
+    at handleResponse (/home/rugery/.vscode/extensions/angular.ng-template-15.2.0/node_modules/vscode-jsonrpc/lib/common/connection.js:477:48)
+    at processMessageQueue (/home/rugery/.vscode/extensions/angular.ng-template-15.2.0/node_modules/vscode-jsonrpc/lib/common/connection.js:292:17)
+    at Immediate.<anonymous> (/home/rugery/.vscode/extensions/angular.ng-template-15.2.0/node_modules/vscode-jsonrpc/lib/common/connection.js:276:13)
+    at process.processImmediate (node:internal/timers:466:21) {
+  code: -32603,
+  data: undefined
+}

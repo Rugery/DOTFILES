@@ -1,0 +1,21 @@
+2023-03-05 16:32:03.893 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'commentsResolvedState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-05 16:32:06.846 [error] [Extension Host] (node:36318) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-03-05 16:32:07.421 [info] [perf] Render performance baseline is 168ms
+2023-03-05 16:47:28.314 [error] Connection got disposed.: Error: Connection got disposed.
+    at Object.dispose (/home/rugery/.vscode/extensions/angular.ng-template-15.2.0/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+    at Object.dispose (/home/rugery/.vscode/extensions/angular.ng-template-15.2.0/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+    at LanguageClient.handleConnectionClosed (/home/rugery/.vscode/extensions/angular.ng-template-15.2.0/node_modules/vscode-languageclient/lib/common/client.js:2424:42)
+    at LanguageClient.handleConnectionClosed (/home/rugery/.vscode/extensions/angular.ng-template-15.2.0/node_modules/vscode-languageclient/lib/node/main.js:155:15)
+    at closeHandler (/home/rugery/.vscode/extensions/angular.ng-template-15.2.0/node_modules/vscode-languageclient/lib/common/client.js:2411:18)
+    at CallbackList.invoke (/home/rugery/.vscode/extensions/angular.ng-template-15.2.0/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+    at Emitter.fire (/home/rugery/.vscode/extensions/angular.ng-template-15.2.0/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+    at closeHandler (/home/rugery/.vscode/extensions/angular.ng-template-15.2.0/node_modules/vscode-jsonrpc/lib/common/connection.js:256:26)
+    at CallbackList.invoke (/home/rugery/.vscode/extensions/angular.ng-template-15.2.0/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+    at Emitter.fire (/home/rugery/.vscode/extensions/angular.ng-template-15.2.0/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+    at IPCMessageReader.fireClose (/home/rugery/.vscode/extensions/angular.ng-template-15.2.0/node_modules/vscode-jsonrpc/lib/common/messageReader.js:40:27)
+    at ChildProcess.<anonymous> (/home/rugery/.vscode/extensions/angular.ng-template-15.2.0/node_modules/vscode-jsonrpc/lib/node/main.js:33:45)
+    at ChildProcess.emit (node:events:538:35)
+    at ChildProcess.emit (node:domain:475:12)
+    at maybeClose (node:internal/child_process:1092:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:302:5)
